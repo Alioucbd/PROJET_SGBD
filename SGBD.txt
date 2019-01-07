@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<diagramme>
+		<entite id="e1">
+			<nomEntite>
+				Etudiant
+			</nomEntite>
+			<attribut>
+				<id>
+					A012
+				</id>
+				<nom>
+					GUEYE
+				</nom>
+				<prenom>
+					Aliou
+				</prenom>
+			</attribut>
+		
+
+		</entite>
+
+		<entite id="e2">
+			<nomEntite>
+				Professeur
+			</nomEntite>
+			<attribut>
+				<id>
+					A016
+				</id>
+				<nom>
+					DIATTA
+				</nom>
+				<prenom>
+					Marius
+				</prenom>
+			</attribut>
+
+		</entite>
+
+		<association id="a1">
+			<nomAssos>
+				enseigner
+			</nomAssos>
+			<date>
+				02/01/2019
+			</date>
+		</association>
+</diagramme>
