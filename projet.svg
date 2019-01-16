@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs /><rect fill="white" height="100" stroke="rgb(0%,0%,0%)" width="200" x="10" y="10" /><text fill="rgb(15%,15%,15%)" font-size="15px" font-weight="bold" stroke="none" x="65" y="125">
+				1..1
+			</text><line stroke="rgb(0%,0%,0%)" x1="210" x2="8" y1="40" y2="40" /><text fill="black" font-family="Arial" font-size="15px" font-weight="bold" stroke="none" x="65" y="25">
+				Etudiant
+			</text><text fill="black" font-family="Arial" font-size="12px" font-weight="bold" stroke="none" x="65" y="67">
+					GUEYE
+				</text><text fill="black" font-family="Arial" font-size="12px" font-weight="bold" stroke="none" x="65" y="55">
+					Aliou
+				</text><rect fill="white" height="100" stroke="rgb(0%,0%,0%)" width="200" x="10" y="400" /><text fill="black" font-family="Arial" font-size="15px" font-weight="bold" x="70" y="420">
+				Classe
+			</text><text fill="rgb(15%,15%,15%)" font-size="15px" font-weight="bold" stroke="none" x="65" y="395">
+				o..n
+			</text><line stroke="rgb(0%,0%,0%)" x1="100" x2="100" y1="110" y2="400" /><line stroke="rgb(0%,0%,0%)" x1="210" x2="8" y1="430" y2="430" /><circle cx="100" cy="250" fill="white" r="60" stroke="rgb(15%,15%,15%)" /><text fill="black" font-family="Arial" font-size="15px" font-weight="bold" x="70" y="250">
+				faire_cours
+			</text></svg>
