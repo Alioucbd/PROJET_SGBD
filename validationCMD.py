@@ -1,4 +1,4 @@
-
+# fonction pour vaider la commande pour l'execution du code
 def validationCMD(argv2,argv3,argv4,argv5,argv6,argv7):	
 	
 	try:
