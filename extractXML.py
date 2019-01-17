@@ -1,6 +1,6 @@
 import svgwrite
 from genererSVG import genererSVG
-
+#fonction pour l'extraction des donnes au niveau du fichier XML
 def extractXML(root,arg3):
 	
 	#PARCOURIR LE FICHIER XML AFIN DE RECUPERER LES ENTITES ET LES ASSOCIATIONS ET LEURS ATTRIBUTS
@@ -48,5 +48,6 @@ def extractXML(root,arg3):
 		print nomAssos
 		print date
 		#CREATION DU FICHIER SVG
-	genererSVG(nomEntite,nom,prenom,card1,nomEntite2,card2,nomAssos)
+	formt="XML"
+	genererSVG(nomEntite,nom,prenom,card1,nomEntite2,intitule,card2,nomAssos,date,formt)
 	
