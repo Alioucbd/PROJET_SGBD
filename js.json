@@ -1,0 +1,17 @@
+
+{
+  "Etudiant": {
+    "id": "A012",
+    "nom": "Diatta",
+    "Prenom": "Marius"
+  }
+  ,
+  "Classe": {
+    "id": "A016",
+    "intitule": "A07"
+  }
+  ,
+  "Suivre_Cours": {
+    "Date": "02/01/2019"
+  }
+}
